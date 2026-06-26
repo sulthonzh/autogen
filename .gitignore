@@ -197,3 +197,4 @@ notebook/coding
 # dotnet artifacts
 artifacts.env.*
 .env.*
+.venv/
